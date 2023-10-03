@@ -1,0 +1,11 @@
+1) mattias.slotte@lahti.hospital.fi: password123
+2) jere.villman@lahti.hospital.fi: supersecretpassword123
+3) duc.duong@lahti.hospital.fi: catsandtortillas<3
+4) john.doe@lahti.hospital.fi: myfavoritefood_myfavoritecolor
+5) jesse.dong@lahti.hospital.fi: password123
+6) mengshi.qi@lahti.hospital.fi: anotherone
+7) iflaah.salman@lahti.hospital.fi: andanotherone
+8) jane.doe@lahti.hospital.fi: thelastone123
+
+format:
+<emp_id>) <email/username>: <password>
